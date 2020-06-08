@@ -14,3 +14,5 @@ def is_parsable(user_input):
 
 example = input("Please insert a string or an integer ")
 print(is_parsable(example))
+
+something different
