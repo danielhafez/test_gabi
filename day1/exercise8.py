@@ -7,17 +7,5 @@ def solve_math(expression):
         modified = expression.split('x')
         print(expression.split('x'))
 
+def new_feature(working nice)
 
-
-def filter_spaces(array):
-    for elements in array:
-        if elements == " ":
-            return False
-        else:
-            return True
-
-
-solve_math('x-x+x/x')
-
-
-something new with a feature
