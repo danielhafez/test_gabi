@@ -6,4 +6,12 @@ def is_even(number):
         return str(number) + " is even"
     else:
         return str(number) + " is not even"
+<<<<<<< HEAD
 something
+=======
+
+
+print("helllloo")
+print("new feature")
+print('new feature from daniel')
+>>>>>>> feature
