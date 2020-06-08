@@ -18,3 +18,6 @@ def filter_spaces(array):
 
 
 solve_math('x-x+x/x')
+
+
+something new with a feature
